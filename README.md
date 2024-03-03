@@ -59,6 +59,4 @@ To use the Colab notebook, simply open it in Google Colab or any Jupyter noteboo
 
 Contributions to this repository are welcome! If you have suggestions for improving existing techniques, implementing additional models, or adding new evaluation metrics, feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
