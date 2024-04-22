@@ -1,4 +1,4 @@
-# ML-intermediate
+# Complete ML Pipeline
 
 # Machine Learning Feature Engineering and Modeling Techniques
 
